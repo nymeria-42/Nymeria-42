@@ -1,5 +1,5 @@
 
-### Olá, pessoal! 👋
+### Oi, pessoal! 👋
 <img src="https://c.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" height="300"/>
 
 - 👋 Meu nome é Camila (mas também podem me chamar de Nymeria)
