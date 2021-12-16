@@ -1,6 +1,6 @@
 
 ### Oi, pessoal! 👋
-<img src="https://c.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" height="300"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" height="300"/>
 
 - 👋 Meu nome é Camila (mas também podem me chamar de Nymeria)
 - 😄 Pronomes: Ela/dela
