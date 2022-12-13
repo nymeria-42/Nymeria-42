@@ -5,7 +5,7 @@
 - 👋 Meu nome é Camila (mas também podem me chamar de Nymeria)
 - 😄 Pronomes: Ela/dela
 - 🔭 Sou apaixonada por tecnologia e busco estar sempre aprendendo coisas novas
-- 👐 Atualmente estou trabalhando como Cientista de Dados na FGV e sou mestrando em Computação na UFF
+- 👐 Atualmente estou trabalhando como Cientista de Dados na FGV e sou mestranda em Computação na UFF
 - 👀 Eu me interesso principalmente por Ciência de Dados
 - 🌱 Estou aprendendo mais sobre Cloud
 - ⚡ Curiosidade sobre mim: Amo assistir musicais e jogar videogame
