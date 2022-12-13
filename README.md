@@ -5,10 +5,10 @@
 - 👋 Meu nome é Camila (mas também podem me chamar de Nymeria)
 - 😄 Pronomes: Ela/dela
 - 🔭 Sou apaixonada por tecnologia e busco estar sempre aprendendo coisas novas
-- 👐 Atualmente estou trabalhando como Cientista de Dados na FGV
-- 👀 Eu me interesso por Ciência de Dados e Desenvolvimento Web
-- 🌱 Estou aprendendo mais sobre Cloud e Conteinerização
-- ⚡ Curiosidade sobre mim: Amo assistir musicais e também amo jogar videogame
+- 👐 Atualmente estou trabalhando como Cientista de Dados na FGV e sou mestrando em Computação na UFF
+- 👀 Eu me interesso principalmente por Ciência de Dados
+- 🌱 Estou aprendendo mais sobre Cloud
+- ⚡ Curiosidade sobre mim: Amo assistir musicais e jogar videogame
 
 ## Ferramentas e tecnologias
 
